@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <meta charset="utf-8" />
+    <title>Welcome Activity</title>
+    <link rel="stylesheet" href="lib/sugar-web/graphics/css/sugar.css">
+    <link rel="stylesheet" href="css/activity.css">
+    <script data-main="js/loader" src="lib/require.js"></script>
+    <script type="text/javascript" src="js/jquery.js" ></script>
+    <script type="text/javascript" src="js/activity_custom.js" ></script>
+  </head>
+  
+  <body>
+    <div id="main-toolbar" class="toolbar">
+      <button class="toolbutton" id="activity-button" title="Welcome Activity"></button>
+      <hr />
+      <button class="toolbutton" id="prev-bt"></button>
+      <button class="toolbutton" id="next-bt"></button>
+      <button class="toolbutton pull-right" id="stop-button" title="Stop"></button>
+      <button class="toolbutton pull-right" id="fullscreen" title="Fullscreen"></button>
+    </div>
+    <div id="canvas">
+ 	
+  	<input type="button" value="Tercer ciclo" style="float:left">
+	<a href="./img/activity.pdf" download="activity" style="float: left">
+	Descargar Archivo
+	</a>
+	<br>
+	<form><center style="">
+		
+		<p>7° grado</p>	
+		<p>8° grado</p>
+		<p>9° grado</p>
+	</form>
+       
+      </div>
+
+    </div>
+  <button class="toolbutton" id="unfullscreen" title="Unfullscreen"></button>
+  </body>
+
+</html>
