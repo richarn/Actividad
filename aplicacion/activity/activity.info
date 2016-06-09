@@ -1,7 +1,8 @@
 [Activity]
-name = WelcomeWeb
-activity_version = 2
-bundle_id = org.laptop.WelcomeWebActivity
+name = HelloWeb
+activity_version = 3
+bundle_id = org.sugarlabs.HelloWeb
 exec = sugar-activity-web
-icon = welcome-activity
-license = GPLv2+
+icon = activity-helloweb
+license = GPLv3
+
