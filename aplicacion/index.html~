@@ -16,10 +16,7 @@
       <hr />
       <button class="toolbutton pull-right" id="stop-button" title="Stop"></button>
     </div>
-    <div id="canvas">
-
-		
-
+    <div id="canvas">		
 	 <!--tercer ciclo-->
         <a href="tercer.html"><div class="tercer"><br>
             <strong><p style="font-family: Calibri; font-size: 24px">Tercer Ciclo</p>
